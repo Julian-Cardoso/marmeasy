@@ -1,4 +1,4 @@
-# MarmEasy - Sistema de
+# MarmEasy - Sistema de Gerenciamento de Marmitarias
 
 ## Descrição
 
@@ -10,7 +10,7 @@ Aqui descrição do projeto
 
 ### Tecnologias Utilizadas 🛠️
 
-- **Backend**:
+- **Backend**: TypeScript
 - **Banco de Dados**: 
 - **Frontend**: 
 - **Estilo**: 
